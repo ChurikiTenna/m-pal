@@ -1,3 +1,3 @@
 # M-PAL
 
-https://churikitenna.github.io/m-pal
+https://churikitenna.github.io/m-pal/
